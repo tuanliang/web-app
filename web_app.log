@@ -1,0 +1,4 @@
+{"level":"DEBUG","time":"2023-03-22T15:01:02.410+0800","caller":"study/main.go:35","msg":"logger init success..."}
+{"level":"DEBUG","time":"2023-03-22T15:09:46.693+0800","caller":"study/main.go:35","msg":"logger init success..."}
+{"level":"INFO","time":"2023-03-22T15:10:04.311+0800","caller":"study/main.go:76","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2023-03-22T15:10:04.311+0800","caller":"study/main.go:85","msg":"Server exiting"}
